@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="lcw urun test">
+    <test name="lcw urun testi">
+        <packages>
+            <package name="Lcw_Project.tests"/>
+        </packages>
+    </test>
+</suite>
